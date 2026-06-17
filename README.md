@@ -1,6 +1,6 @@
 # EcommerceHub
 
-A full-stack e-commerce backend application built using Spring Boot and modern Java technologies.
+Spring Boot E-commerce Backend using JPA, PostgreSQL, Spring Security and JWT Authentication.
 
 ## Tech Stack
 
